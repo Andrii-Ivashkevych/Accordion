@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.panel-default>.panel-heading {
+    background: rgb(244,182,13);
+}
+
+.panel-title a {
+    color: rgb(255,255,255);
+    text-decoration: none;
+    text-transform: uppercase;
+}
